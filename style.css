@@ -1,0 +1,50 @@
+h1 {
+    margin-left: 10px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: pink;
+}
+body {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.56-61efsCQjrPijK-x4JmAHaE7&pid=Api&P=0&h=220);
+    background-size: 3000px;
+}
+img {
+    width: 300px;
+    border-radius: 150px;
+    border-style: ridge;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 25px;
+    color: pink;
+    margin-left: 20px;
+}
+
+h2 {
+    color: pink;
+}
+
+button {
+    background-color: pink;
+    color: black;
+    width: 250px;
+    box-shadow: 2px 2px 0 yellow;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.15px;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+.button-design {
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    box-shadow: 5px 5px 0 pink;
+}
